@@ -4,4 +4,6 @@ title:  "Early"
 date:   2022-06-11 20:13:53 -0700
 categories: general
 ---
+
+Hello I would like my text to show up
 [Early]: http://www.paulgraham.com/early.html
