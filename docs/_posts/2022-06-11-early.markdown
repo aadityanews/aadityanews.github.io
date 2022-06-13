@@ -5,6 +5,16 @@ date:   2022-06-11 20:13:53 -0700
 categories: general
 ---
 
-[Early][early]
+[Early Work][early]
+
+I have had this article saved in a note taking app under "appreciation for Schafer" since 12/14/21. You should read it first before continuing.
+
+The relevant paragraph is here: "Teachers are in effect a special case of colleagues. It's a teacher's job both to see the promise of early work and to encourage you to continue. But teachers who are good at this are unfortunately quite rare, so if you have the opportunity to learn from one, take it."
+
+When I read this 6 months ago, I was immediately reminded of how I felt as your student. I came to you that year with a lot of "early work" - my podcast, book, research into game theory, etc - and you consistently provided support and encouragement for that work. I will always remember you and your class as one of the first places I felt that motivation externally. Thank you for being my favorite teacher. 
+
+-Aaditya
+
+
 
 [early]: http://www.paulgraham.com/early.html
